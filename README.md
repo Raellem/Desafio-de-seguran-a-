@@ -1,2 +1,4 @@
 # Desafio-de-seguran-a-
 Apenas uma demonstração, já que não estou usando nenhum computador e estou contando com o suporte da IA.
+Ataques são usados para quebrar senhas, tentando combinações de nome de usuário e senha no modo tentativa e erro. O medusa é uma ferramenta que torna esse processo mais rápido e simultâneo, quebrando senhas e suportando protocolos como FTP, SSH, HTTP, MySQL e outros. Ela identifica senhas fracas, revelando vulnerabilidades que podem ser corrigidas para fortalecer a segurança. 
+Vulnerabilidades de login em serviços como FTP (Protocolo de Transferência de Arquivos), web e SMB (Server Message Block) são explorados para obter acesso não autorizado. Uma as principais falhas é o ataque de força bruta. Para mitigar esses riscos, é essencial utilizar protocolos seguros, senhas fortes, MFA (autenticação multifator), manter os sistemas atualizados, monitorar atividades suspeitas e desativar funcionalidades desnecessárias.
